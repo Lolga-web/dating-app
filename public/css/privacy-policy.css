@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+body {
+    margin: 5%;
+}
+.main-title {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.title {
+    margin: 10px auto;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.margin {
+    margin-left: 2%;
+}
